@@ -1,0 +1,3 @@
+﻿  mm.c
+C:\Users\Anwar05\OneDrive\Bureau\Project3\Project3\mm.c(7,11): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Project3.vcxproj -> C:\Users\Anwar05\OneDrive\Bureau\Project3\x64\Debug\Project3.exe
